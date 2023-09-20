@@ -1,0 +1,21 @@
+﻿body
+{
+  background-image:url(imagenes/boyaca.png);
+}
+h1 {
+    color:aquamarine;
+    font-family: 'Comic Sans MS';
+    font-size: 40px;
+    border: 5px dotted purple;
+}
+h2{
+    color:coral;
+    font-family:'Comic Sans MS';
+        font-size:20px;
+        border:5px dotted lightblue;
+}
+h3{
+    color:forestgreen;
+    font-family:'Comic Sans MS';
+        font-size:20px;
+}

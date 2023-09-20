@@ -1,0 +1,16 @@
+﻿body
+{
+    background-image:url(imagenes/montañas.png);
+}
+h1 {
+    color: aquamarine;
+    font-family: 'Comic Sans MS';
+    font-size: 40px;
+    border: 5px dotted purple;
+}
+h2 {
+    color: bisque;
+    font-family: 'Comic Sans MS';
+    font-size: 40px;
+    border: 5px dotted lightblue;
+}

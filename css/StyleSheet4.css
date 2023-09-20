@@ -1,0 +1,40 @@
+﻿body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/38/Hogwarts_model_studio_tour.jpg)
+}
+
+
+.lalalala{
+    font-size:70px;
+              color:aquamarine;
+              font-family:'Comic Sans MS';
+                  border: 5px dotted lightblue;
+
+}
+.yuyu {
+    font-size: 70px;
+    color:cornflowerblue;
+    font-family: 'Comic Sans MS';
+        border:5px 'Harlow Solid' pink;
+}
+
+.jijiji {
+    font-size: 70px;
+    color: coral;
+    font-family: 'Comic Sans MS';
+    border: 5px dotted lightblue;
+}
+
+
+.lili{
+    font-size: 70px;
+    color:darkolivegreen;
+    font-family: 'Comic Sans MS';
+    border: 5px 'Harlow Solid' pink;
+}
+
+.lulu {
+    font-size: 70px;
+    color: crimson;
+    font-family: 'Comic Sans MS';
+    border: 5px dotted lightblue;
+}
